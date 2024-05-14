@@ -22,7 +22,7 @@ This project aims to create an IoT safety device using NodeMCU ESP8266 microcont
 
 ### Circuit Diagram:
 
-!(C:\Users\Suriya\OneDrive\Documents\iot-sos-device-circdiag.png)
+[C:\Users\Suriya\OneDrive\Documents\iot-sos-device-circdiag.png]
 
 ### How to Use:
 
