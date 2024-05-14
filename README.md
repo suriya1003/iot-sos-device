@@ -19,13 +19,17 @@ This project aims to create an IoT safety device using NodeMCU ESP8266 microcont
 - Piezoelectric Sensor: Detects falls or sudden impacts.
 - Additional components as required for power supply, connectivity, and housing.
 
+
+### Circuit Diagram:
+
+!(C:\Users\Suriya\OneDrive\Documents\iot-sos-device-circdiag.png)
+
 ### How to Use:
 
 1. **Setup**: Connect the components according to the provided circuit diagram.
 2. **Configure**: Set up the device with the necessary parameters such as emergency contact information and geofence boundaries.
-3. **Deployment**: Attach the device securely to the user's clothing or accessories.
-4. **Activation**: Press the SOS button to trigger emergency alerts when needed.
-5. **Monitoring**: Regularly monitor email notifications for geofence breaches and fall detection alerts.
+3. **Activation**: Press the SOS button to trigger emergency alerts when needed.
+4. **Monitoring**: Regularly monitor email notifications for geofence breaches and fall detection alerts.
 
 ### Future Improvements:
 
@@ -33,11 +37,3 @@ This project aims to create an IoT safety device using NodeMCU ESP8266 microcont
 - Enhanced data encryption and security measures for sensitive information transmission.
 - Optimizations for power consumption to prolong battery life.
 
-### Contributors:
-
-- [Your Name or Organization]
-- [Additional contributors]
-
-### License:
-
-[Insert license information]
